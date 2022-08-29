@@ -1,4 +1,6 @@
 {
-  "cssTheme": "",
-  "translucency": false
+  "cssTheme": "Aurora",
+  "translucency": false,
+  "interfaceFontFamily": "Segoe UI Emoji",
+  "theme": "obsidian"
 }
