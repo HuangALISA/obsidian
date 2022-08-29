@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "71e5d9e00878d100",
+        "id": "73a630d38532f493",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -35,6 +31,14 @@
             }
           },
           {
+            "id": "b6d129c71fd8ca10",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
             "id": "5139f20792cfbe7a",
             "type": "leaf",
             "state": {
@@ -48,16 +52,9 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "b6d129c71fd8ca10",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,8 +121,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71e5d9e00878d100",
+  "active": "73a630d38532f493",
   "lastOpenFiles": [
-    "new.md"
+    "new.md",
+    "1.md"
   ]
 }
