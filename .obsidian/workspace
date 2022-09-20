@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "методы классов.md",
+            "file": "поля класса.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "методы классов.md",
+                "file": "поля класса.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "методы классов.md",
+                "file": "поля класса.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "методы классов.md"
+                "file": "поля класса.md"
               }
             }
           }
@@ -130,6 +130,8 @@
   },
   "active": "cefe7fbf5d666478",
   "lastOpenFiles": [
+    "Основные знаки.md",
+    "методы классов.md",
     "Логические операторы.md",
     "Классы в js.md",
     "Геттеры и сеттеры.md",
@@ -137,8 +139,6 @@
     "call.md",
     "bind.md",
     "this.md",
-    "constructor.md",
-    "методы классов.md",
-    "object instanceof Class.md"
+    "constructor.md"
   ]
 }
