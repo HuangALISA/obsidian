@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Геттеры и сеттеры.md",
+            "file": "Классы в js.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Геттеры и сеттеры.md",
+                "file": "Классы в js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Геттеры и сеттеры.md",
+                "file": "Классы в js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Геттеры и сеттеры.md"
+                "file": "Классы в js.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "cefe7fbf5d666478",
   "lastOpenFiles": [
+    "Геттеры и сеттеры.md",
     "apply.md",
     "call.md",
     "bind.md",
@@ -138,7 +139,6 @@
     "методы классов.md",
     "object instanceof Class.md",
     "super.md",
-    "Геттеры и сеттеры.md",
     "Классы в js.md"
   ]
 }
