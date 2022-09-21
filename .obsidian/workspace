@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "поля класса.md",
+            "file": "колбэк.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 219.5
   },
   "right": {
     "id": "34590c1ad1aef907",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "поля класса.md",
+                "file": "колбэк.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "поля класса.md",
+                "file": "колбэк.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "поля класса.md"
+                "file": "колбэк.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "cefe7fbf5d666478",
   "lastOpenFiles": [
+    "Ассинхронность.md",
+    "this.md",
+    "поля класса.md",
     "Логические операторы.md",
     "Геттеры и сеттеры.md",
-    "поля класса.md",
     "Основные знаки.md",
     "методы классов.md",
     "Классы в js.md",
-    "this.md",
     "super.md",
-    "object instanceof Class.md",
-    "constructor.md"
+    "object instanceof Class.md"
   ]
 }
